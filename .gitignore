@@ -63,3 +63,9 @@ console.log
 .serena
 .planning
 GUI/conf
+GUI/webgui/settings_standalone.py
+GUI/standalone_launcher.py
+COMPILE.md
+STANDALONE_BUILD.md
+build_standalone.py
+setup.py
